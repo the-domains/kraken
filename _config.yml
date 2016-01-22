@@ -1,7 +1,7 @@
 name: Kraken
 favicon: null
-layout_spectrum: 0.6923442967236042
-typography_spectrum: 0.3532414606306702
+layout_spectrum: 1
+typography_spectrum: 0.55691
 cta:
   domain: null
   bucket: null
